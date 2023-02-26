@@ -6,7 +6,7 @@ Use Github Pages and use markdown language syntax (not HTML) to create a basic s
 -Website must be public
 
 -Use at least handful of Github flavour markdown features to format the web page
- ### Käytetyt mausteet: 
+ ### Käytetyt tehosteet: 
   1. 3 erikokoista otsikkoa
   2. **Bold text**
   3. järjestelty lista
