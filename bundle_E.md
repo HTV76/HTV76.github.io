@@ -10,7 +10,7 @@
   3. järjestelty lista
   4. järjestelemätön lista
   5. ~~Virhe~~
-  6. Linkki [Github Docs] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  6. Linkki [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 -Document your work progress with few screenshots to the learning diary
 
